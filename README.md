@@ -159,5 +159,5 @@ $ optuna-dashboard sqlite:///db.sqlite3
 
 # Contact
 
-[Telegram Group](https://t.me/automlalex)
+https://shahbazharoon.tech/
 
