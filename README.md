@@ -155,25 +155,6 @@ Run
 $ optuna-dashboard sqlite:///db.sqlite3
 ```
 
-# Road Map
-
--   [x] Feature Generation
-
--   [x] Save/Load and Predict on New Samples
-
--   [x] Advanced Logging
-
--   [x] Add opt Pruners
-
--   [ ] Docs Site
-
--   [ ] DL Encoders
-
--   [ ] Add More libs (NNs)
-
--   [ ] Multiclass Classification
-
--   [ ] Build pipelines
 
 
 # Contact
